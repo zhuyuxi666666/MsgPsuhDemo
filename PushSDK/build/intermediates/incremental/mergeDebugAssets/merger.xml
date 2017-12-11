@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Users\lenovo\AppData\Local\Android\MsgPsuhDemo\PushSDK\assets"/><source path="D:\Users\lenovo\AppData\Local\Android\MsgPsuhDemo\PushSDK\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\Users\lenovo\AppData\Local\Android\MsgPsuhDemo\PushSDK\build-types\debug\assets"/></dataSet></merger>
